@@ -1,4 +1,9 @@
 # damage-calc
+
+[![Circle CI](https://circleci.com/gh/tamawo20/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/tamawo20
+
+
+
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
